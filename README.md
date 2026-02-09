@@ -4,4 +4,7 @@ Day 1:
 - Valid Anagram (LeetCode 242)
 
 Day 2:
-- Reverse String (Leetcode 344)
+- Reverse String (LeetCode 344)
+
+Day 3:
+- Divisible and Non-Divisible Sums Difference (LeetCode 2894)
