@@ -8,3 +8,4 @@ Day 2:
 
 Day 3:
 - Divisible and Non-Divisible Sums Difference (LeetCode 2894)
+- Convert The Temperature (leetcode 2469)
